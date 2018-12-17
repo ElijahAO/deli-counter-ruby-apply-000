@@ -1,3 +1,3 @@
 # Write your code here.
 
-def take_a_number
+def take_a_number(7)
